@@ -1,0 +1,99 @@
+
+#p-tit-form {
+    color: rgb(7, 156, 194);
+    font-size: x-large;
+}
+
+#form-section {
+    background-color: #bdc3c7;
+    padding: 1rem;
+    margin: auto;
+}
+
+#footer {
+    background-color: #173b60;
+    color: azure;
+}
+
+#title-conf {
+    color: #d5d9db;
+    font-size: 0.9px;
+}
+
+#nav-it {
+    color: #d5d9db;
+    font-size: 0.9vw;
+}
+
+#nav-it:hover {
+    color: #2c512e;
+
+}
+
+.col {
+    padding-top: 2px;
+}
+
+#m2:hover {
+    color: red;
+}
+
+#m2 {
+    color: blue;
+}
+
+#h3-peel {
+    margin: 1rem;
+    color: black;
+}
+
+#title-conf {
+    color:  #f7f2f8 ;
+    font-size: 2vw;
+}
+
+#cardEst {
+    border-color: #017bff;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 3vw;
+    
+}
+
+#cardTra {
+    border-color: #17a2b8;
+}
+
+#cardJun {
+    border-color: #fec007;
+}
+
+.card {
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top: 3vw ;
+}
+
+
+#button1 {
+
+    padding: 7px 0px;
+    width: 40%;
+    background-color: #93cb3c;
+    border: none;
+    margin-bottom: 2em;
+}
+
+#button2 {
+
+    padding: 7px 0px;
+    width: 40%;
+    background-color: #93cb3c;
+    border: none;
+    margin-bottom: 2em;
+}
+
+#button1:hover,#button2:hover,#button3:hover 
+{ background-color: #69a30c;
+
+}
